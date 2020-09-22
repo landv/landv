@@ -38,6 +38,10 @@
 5、Linux服务端开发，调试经验，熟悉网络编程、TCP、HTTP   
 6、熟悉微服务，掌握一种以上服务框架和消息中间件，了解其实现原理  
  
+# github 
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=landv&show_icons=true&theme=dark)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=landv&theme=dark)
       
       
