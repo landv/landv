@@ -1,6 +1,6 @@
 
 # 联系方式
-- Email：root@landv.pw
+- Email：landvcn@qq.com
 - QQ:       1358459281
 
 # 个人信息
