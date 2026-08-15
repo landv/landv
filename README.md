@@ -1,49 +1,184 @@
 
-# 联系方式
-- Email：landvcn@qq.com
-- QQ:       1358459281
+<h1 align="center">👋 你好，我是 浩秦（landv）</h1>
 
-# 个人信息
+<p align="center">
+  🚀 <b>独立开发程序员</b> · 全栈开发 · 信息化建设 · 系统运维<br/>
+  💪 15 年企业级经验 · 高效沟通 · 按时交付 · 售后无忧
+</p>
 
- - 浩秦/男
- - 工作年限：10年
-- github博客：https://landv.cn
-- 博客园：https://landv.cnblogs.com
- - Github：http://github.com/landv
+<p align="center">
+  <img src="https://img.shields.io/badge/状态-可接单中-2ea44f?style=flat-square" alt="可接单"/>
+  <img src="https://img.shields.io/badge/响应-24h%20内-0078D4?style=flat-square" alt="24h响应"/>
+</p>
 
-    
-# 技能清单  
-### 信息化管理  
-工作职责：  
-1、制定公司信息化建“三五规划”：根据公司战略、用户需求、业务和管理成熟度等因素，制定公司信息化建设的长期规划，明确信息化建设的目标和方向。  
-2、制定规章制度、规范和标准：负责组织制定公司信息化建设相关的需求管理、项目管理、知识管理等方面的规章制度、规范和标准，并监督执行，以确保信息化建设的顺利进行。  
-3、负责信息化建设的调研、规划、项目建设、落地与推行：根据公司信息化建设规划，负责信息化建设的调研、规划、项目建设、落地与推行等工作，确保信息化建设项目能够按时、按质完成。  
-4、与软件供应商的业务洽谈工作：负责与软件供应商进行业务洽谈，选择合适的软件产品和服务，达成合作协议，并监督供应商履行协议。  
-5、合理安排下属分工：根据公司各信息系统运行情况，合理安排下属分工，确保信息系统能够高效稳定地运行。  
-6、对接各子公司信息化建设各项工作：负责对接各子公司信息化建设各项工作，协调各个部门之间的信息流转和业务接口，促进信息化系统的整体优化，提高公司信息化管理水平。  
-7、信息系统实施、推广与培训工作：负责信息系统实施、推广和培训等工作，确保信息系统能够正常运行，并能够被广泛应用。同时还要负责员工的信息化技能培训，提高员工的信息化素养和技能水平。   
+---
 
-### 运维相关：  
-1、应用系统的部署、维护、升级工作：负责应用系统在服务器上的部署、维护和升级，确保应用系统可以正常运行。需要熟悉应用系统的架构和配置文件的编写，并能够快速排查常见问题。  
-2、机房网络和办公室网络管理和调优：负责机房和办公室网络的规划、部署、维护和调优。需要熟悉网络设备的配置和管理，如路由器、交换机、防火墙等，并能够快速排查网络故障。  
-3、负责服务器集群的操作系统安装、升级、定制、部署与维护工作：运维人员需要对服务器集群的操作系统进行安装、升级、定制、部署和维护，确保服务器集群的稳定性和安全性。需要熟悉各种操作系统的安装和配置，如Linux、Windows等。  
-4、负责服务器集群的系统监控和自动化脚本的设计与部署：运维人员需要对服务器集群进行系统监控和管理，并能够设计和部署自动化脚本来减少手动操作，提高运维效率。需要熟悉各种系统监控工具和自动化脚本的编写，如Zabbix、Nagios等。  
-5、负责对服务器运维平台有针对性地持续调整和优化，提高操作效率，增强系统可用性：运维人员需要根据业务需求和系统情况，对服务器运维平台进行持续的调整和优化，以提高操作效率和系统可用性。需要熟悉各种运维平台和工具，如Ansible、Saltstack、Puppet等，并具备一定的脚本编程能力。  
-6、负责应用系统的故障应对，及就故障排查同业务及技术接口人的沟通工作：运维人员需要对应用系统的故障进行应对，并与业务和技术接口人进行沟通，快速解决问题。需要具备良好的沟通能力和故障排查能力，能够快速定位问题并解决。  
-7、精通 Linux 系统安装配置和系统参数优化设置，具备企业级大规模系统的运维：运维人员需要精通Linux系统的安装和配置，并能够对系统参数进行优化和调整，以提高系统性能和稳定性。需要具备大规模系统的运维经验和良好的架构设计能力。  
+## 👨‍💻 关于我
 
-### golang开发    
-1、具备良好的基本功，熟悉使用基本的数据结构和算法：这是Golang开发的基础，需要熟悉掌握常用数据结构，如数组、链表、栈、队列、哈希表等；同时需要了解基本的算法，如排序、查找、递归等。  
-2、熟悉掌握Golang常用的框架，如gin、beego深入了解框架提供的特性及其实现原理细节：Gin和Beego是目前Golang最流行的Web框架，需要熟悉它们的用法并掌握其提供的特性和实现原理。比如，Gin的中间件原理、路由匹配规则、Context对象等，Beego的MVC架构、ORM框架、Session管理等。  
-3、熟悉掌握一种以上非关系型数据库，如mongodb、redis,理解其使用场景及限制：非关系型数据库是分布式系统的重要组成部分，需要熟悉至少一种非关系型数据库，如MongoDB、Redis等，并理解其使用场景和限制。例如，MongoDB适用于存储大量的半结构化数据，而Redis适用于高并发的缓存场景等。  
-4、熟练掌握MySQL数据库，具备MySQL索引优化、查询优化的能力：MySQL是目前最流行的关系型数据库之一，需要熟悉其基本用法和原理，并具备索引优化、查询优化的能力。这包括如何设计优化表结构、如何选择合适的索引和优化查询语句等。  
-5、Linux服务端开发，调试经验，熟悉网络编程、TCP、HTTP：Linux是服务端开发的主要操作系统之一，需要熟悉Linux常用命令和基本操作，如文件操作、进程管理、网络配置等，同时需要掌握网络编程和常见的通信协议，如TCP、HTTP等。  
-6、熟悉微服务，掌握一种以上服务框架和消息中间件，了解其实现原理：微服务是一种现代化的软件架构，需要熟悉其概念、特点和优势，并掌握至少一种微服务框架和消息中间件，比如Dubbo、Spring Cloud、Kafka等。同时，需要了解微服务架构的实现原理，包括服务注册与发现、负载均衡、容错处理、分布式事务等。  
- 
-# github 
+你好！我是 **浩秦**，一名拥有 **15 年**经验的 **独立开发程序员**。
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=landv&show_icons=true&theme=dark)
+我曾负责企业 **信息化建设、大规模系统运维与 Golang 服务端开发**，熟悉从 **需求分析 → 方案设计 → 开发落地 → 部署运维** 的完整流程。现在我以独立开发者的身份，专注为中小企业和个人客户提供 **专业、稳定、可长期维护** 的技术服务。
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=landv&theme=dark)
-      
-      
+**为什么选择我？**
+
+- ✅ 15 年一线经验，方案靠谱、少走弯路
+- ✅ 深耕制造 / 打印 / 标签自动化行业，熟悉设备对接与产线系统
+- ✅ 全栈能力，一个人搞定从开发到运维
+- ✅ 交付准时，代码规范，长期可维护
+- ✅ 售后响应快，合作放心
+
+---
+
+## 💼 我能为你做什么（可接单）
+
+| 🚀 服务项目 | 📝 说明 |
+| --- | --- |
+| 🖥️ **Web 应用 / 系统开发** | 企业官网、管理后台、SaaS 平台、API 接口 |
+| ⚙️ **Golang 后端开发** | Gin / Beego 框架、微服务、高并发高性能接口 |
+| 🗄️ **数据库设计 & 优化** | MySQL 索引/慢查询优化、MongoDB、Redis 缓存方案 |
+| ☁️ **服务器部署 & 运维** | Linux 集群部署、Zabbix 监控、Ansible 自动化运维 |
+| 🏢 **信息化建设咨询** | 信息化规划、需求管理、系统选型、项目落地推行 |
+| 🐛 **爬虫 / 数据采集** | 网页爬虫、数据抓取、内容聚合、API 对接 |
+| 🔧 **系统维护 & 救急** | 系统巡检、故障排查、性能调优、旧系统改造升级 |
+
+> 💡 有想法不知道怎么落地？告诉我你的需求，我免费帮你出方案和报价。
+
+---
+
+## 🤝 如何合作
+
+1. **📞 需求沟通** — 告诉我你的需求，免费评估可行性与初步方案
+2. **📋 方案 & 报价** — 确认技术方案、开发周期与报价
+3. **💻 开发 & 交付** — 按里程碑推进，及时同步进度
+4. **🚀 部署 & 培训** — 上线部署、使用培训、交付文档
+5. **🔧 售后维护** — 稳定期技术支持与持续优化
+
+---
+
+## 🛠️ 技术栈
+
+### 💻 开发语言
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![VB](https://img.shields.io/badge/VB-Visual%20Basic-945DB7?style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🧩 框架 & 架构
+![Gin](https://img.shields.io/badge/Gin-Web%20Framework-00ADD8?style=for-the-badge)
+![Beego](https://img.shields.io/badge/Beego-Web%20Framework-00ADD8?style=for-the-badge)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Microservices](https://img.shields.io/badge/Microservices-Architecture-6DB33F?style=for-the-badge)
+
+### 🗄️ 数据库
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+
+### 📨 消息中间件 & 缓存
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![RocketMQ](https://img.shields.io/badge/RocketMQ-MQ-D77310?style=for-the-badge)
+![Memcached](https://img.shields.io/badge/Memcached-000000?style=for-the-badge&logo=memcached&logoColor=white)
+
+### ☁️ 运维 & 容器 & 云
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-Monitoring-FF0000?style=for-the-badge)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Aliyun](https://img.shields.io/badge/Aliyun-Cloud-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white)
+![Tencent Cloud](https://img.shields.io/badge/Tencent%20Cloud-Cloud-00A4FF?style=for-the-badge)
+
+### 🎯 核心能力
+- **后端开发**：Go / Java / Python / Node.js，Gin / Beego / Spring Boot 等框架，微服务与分布式架构
+- **桌面 & 工业开发**：C# / VB（VB6 / VB.NET）、Win32 / WinForms / WPF，打印 / RFID / 条码 / 设备对接
+- **前端开发**：Vue / React、HTML / CSS / JavaScript / TypeScript、响应式与移动端适配
+- **数据库**：MySQL（索引 / 查询优化）、PostgreSQL、MongoDB、Redis（高并发缓存）、Elasticsearch 搜索
+- **消息 & 缓存**：Kafka / RabbitMQ / RocketMQ 消息中间件、Redis / Memcached 缓存方案
+- **运维 & 云**：Linux 系统调优、Docker / Kubernetes、Zabbix / Prometheus / Grafana 监控、Ansible / Saltstack 自动化、Nginx、CI/CD 流水线
+- **网络**：TCP / HTTP / WebSocket 网络编程、路由器 / 交换机 / 防火墙配置与排障
+- **信息化管理**：信息化规划、需求管理、项目管理、系统选型与落地推行
+
+---
+
+## 📌 项目案例
+
+> 以下为部分公开项目与企业落地项目（企业项目多为私有仓库），欢迎沟通了解细节。
+
+### 🌐 开源项目
+| 项目 | 简介 | 技术栈 |
+| --- | --- | --- |
+| [kuwo-cli](https://github.com/landv/kuwo-cli) | 酷我音乐命令行下载工具，Go 编写，零第三方依赖（仅标准库） | Go |
+| [SleepBlockTool](https://github.com/landv/SleepBlockTool) | Windows 桌面小工具：查看并一键结束阻止系统休眠/睡眠的进程 | C++ / Win32 |
+| [xwlb](https://github.com/landv/xwlb) | CCTV《新闻联播》爬虫工具（Node.js 实现） | Node.js |
+
+### 🏭 企业 / 工业项目（私有）
+> 以下为已在企业实际落地的项目，涉及制造打印、标签与自动化控制。均为私有仓库，细节可私聊了解。
+
+| 项目 | 简介 | 技术栈 |
+| --- | --- | --- |
+| gyyPrint | 企业打印管理系统 | C# / .NET |
+| gyyPrint2 | 企业打印管理系统（迭代版） | C# / .NET |
+| CefFlashBrowser_MultiTab | 基于 CEF（Chromium）内核的多标签浏览器应用 | C++ / CEF |
+| Mes_tcp_print | MES 系统 TCP 协议打印服务 | C# / Socket |
+| GREELabelingMachineAutomation | 贴标机自动化控制系统 | C# / PLC |
+| GREELabelingMachineAutomation2 | 贴标机自动化控制系统（迭代版） | C# / PLC |
+| BarTenderPrint | BarTender 标签打印集成 | VB6 |
+| BarTenderPrintV2 | BarTender 标签打印集成（迭代版） | VB6 |
+| RFID_label_print | RFID 标签打印系统 | C# / .NET |
+
+> 💡 以上企业项目均为私有仓库，技术栈以实际项目为准，欢迎私聊了解详情与演示。
+
+---
+
+## 📬 联系我 · 获取报价
+
+**欢迎咨询合作，24 小时内回复！**
+
+<p align="center">
+  <a href="mailto:landvcn@qq.com"><img src="https://img.shields.io/badge/Email-landvcn%40qq.com-0078D4?style=for-the-badge" alt="Email"/></a>
+  <a href="https://github.com/landv"><img src="https://img.shields.io/badge/GitHub-landv-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://landv.cn"><img src="https://img.shields.io/badge/Blog-landv.cn-2ea44f?style=for-the-badge" alt="Blog"/></a>
+</p>
+
+| 渠道 | 联系方式 |
+| --- | --- |
+| 📧 **Email** | landvcn@qq.com |
+| 💬 **QQ** | 1358459281 |
+| 🌐 **GitHub** | https://github.com/landv |
+| 📝 **个人博客** | https://landv.cn |
+| 📖 **博客园** | https://landv.cnblogs.com |
+
+> 💼 有开发、运维或信息化建设需求？**直接联系我**，免费获取初步方案与报价。
+
+---
+
+*🛠 由 landv 维护 · 最后更新：2026-08-15 · © 浩秦*
